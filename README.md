@@ -1,4 +1,2 @@
-# rqm
-A freecodecamp Front-End Project
-
-RQM (Random Qoute Machine)
+Offsourcing OJT Files
+- Hosts Files
