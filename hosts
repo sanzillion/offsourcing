@@ -1,0 +1,380 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+110.232.178.82 0.facebook.com
+110.232.178.82 en-gb.facebook.com
+110.232.178.82 www.facebridge.net
+110.232.178.82 www.youtube.com
+110.232.178.82    www.dailymotion.com
+110.232.178.82 www.jango.com
+127.0.0.1    watch32.com
+127.0.0.1    tv-links.co.uk
+127.0.0.1    watchfilms.com
+127.0.0.1    www.free-tv-video-online.me
+127.0.0.1    www.pinoytvshowsreplay.com
+127.0.0.1    www.pinaytambayan.com
+127.0.0.1    pinoytv.com
+127.0.0.1    http://www.imdb.com
+127.0.0.1    whitefrogthemovie.com
+127.0.0.1    iwantv.com.ph
+127.0.0.1    bitsnoop.com
+127.0.0.1    isohunt.com
+127.0.0.1    www.torlock.com
+127.0.0.1    yify-torrents.com
+127.0.0.1    TorrentDownloads.Net
+127.0.0.1    kat.ph
+127.0.0.1    torrentcrazy.com
+127.0.0.1    kat.ph
+127.0.0.1    torrentcrazy.com
+127.0.0.1    m.youtube.com
+127.0.0.1 touch.facebook.com
+127.0.0.1    dailymotion.com
+127.0.0.1    web.skype.com
+
+127.0.0.1    megashare.info
+
+   127.0.0.1    m.o.facebook.com
+    127.0.0.1    m.0.facebook.com
+    127.0.0.1    m.facebook.com
+    127.0.0.1    www.m.facebook.com
+    127.0.0.1    fb.com
+    127.0.0.1    www.fb.com    
+    127.0.0.1    static.ak.fbcdn.net
+    127.0.0.1    www.static.ak.fbcdn.net
+    127.0.0.1    login.facebook.com
+    127.0.0.1    www.login.facebook.com
+    127.0.0.1    fbcdn.net
+    127.0.0.1    fbcdn.com
+    127.0.0.1    www.fbcdn.net
+    127.0.0.1    www.fbcdn.com
+    127.0.0.1    static.ak.connect.facebook.com
+    127.0.0.1    m.facebook.com
+    127.0.0.1    en-gb.facebook.com
+    127.0.0.1    www.en-gb.facebook.com
+    127.0.0.1    facebridge.net
+    127.0.0.1    www.facebridge.net
+
+#PROXIES#        
+127.0.0.1    hidemyass.com
+127.0.0.1    heroproxy.info
+127.0.0.1    www.webproxy.hu
+127.0.0.1    proxify.com
+127.0.0.1    proxfree.com
+127.0.0.1    proxyserver.com
+127.0.0.1    webproxy.net
+127.0.0.1    hidedoor.com
+127.0.0.1    newipnow.com
+127.0.0.1    incloak.com
+127.0.0.1    3proxy.de 
+127.0.0.1    hideipusa.com
+127.0.0.1    proxyanonymizer.net
+127.0.0.1    rocketprox.net
+127.0.0.1    proxify.co.uk
+127.0.0.1    proxify.net
+127.0.0.1    onlineconnect.info
+127.0.0.1    koxy.de
+127.0.0.1    hideme.nl
+127.0.0.1    emuby.com
+127.0.0.1    faproxy.com
+127.0.0.1    stealthiness.org
+127.0.0.1    ioxy.de
+127.0.0.1    freeproxy.ca
+127.0.0.1    stealthy.co
+127.0.0.1    freesurfproxy.com
+127.0.0.1    goprivate.eu
+127.0.0.1    incloak.org
+127.0.0.1    euproxy.eu
+127.0.0.1    freeproxynet.com
+127.0.0.1    7877.info
+127.0.0.1    gproxy.nl
+127.0.0.1    incloak.biz
+127.0.0.1    proxfree.com
+127.0.0.1    incloak.com
+127.0.0.1    hidedoor.com
+127.0.0.1    proxify.com
+127.0.0.1    webproxy.net
+127.0.0.1    newipnow.com
+127.0.0.1    proxyanonymizer.net
+127.0.0.1    3proxy.de
+127.0.0.1    proxyserver.com
+127.0.0.1    rocketprox.net
+127.0.0.1    proxysweden.com
+127.0.0.1    offshoreip.com
+127.0.0.1    freeproxy.im
+127.0.0.1    primeproxy2.info
+127.0.0.1    yogipops.com
+127.0.0.1    anonhide.com
+127.0.0.1    face-proxy.com
+127.0.0.1    proxyhider.be
+127.0.0.1    im-hidden.com
+127.0.0.1    collegeonline129.info
+127.0.0.1    getprivate.eu
+127.0.0.1    euproxy.eu
+127.0.0.1    filterbypass.me
+127.0.0.1    localdomain.ws
+127.0.0.1    proxify.cc
+127.0.0.1    proxies.biz
+127.0.0.1    webproxy-service.de
+127.0.0.1    proxify.de
+127.0.0.1    stealthiness.org
+127.0.0.1    perproxy.com
+127.0.0.1    ioxy.de
+127.0.0.1    anonypost.com
+127.0.0.1    pr0xy.com
+127.0.0.1    hideme.nl
+127.0.0.1    jsproxy.com
+127.0.0.1    proxies.us
+127.0.0.1    virtual-browser.com
+127.0.0.1    surferfreak.com
+127.0.0.1    mywebtunnel.com
+127.0.0.1    proxygizlen.com
+127.0.0.1    freesurfproxy.com
+127.0.0.1    freesafeip.com
+127.0.0.1    incloak.biz
+127.0.0.1    koxy.de
+127.0.0.1    incloak.es
+127.0.0.1    gproxy.nl
+127.0.0.1    whatismyip.info
+127.0.0.1    unblockyouku.com
+127.0.0.1    proxify.org
+127.0.0.1    fastproxynetwork.com
+127.0.0.1    anonysurf.com
+127.0.0.1    freeproxynet.com
+127.0.0.1    xeronet-proxy.biz
+127.0.0.1    proxify.us
+127.0.0.1    emuby.com
+127.0.0.1    javascriptproxy.com
+127.0.0.1    incloak.org
+127.0.0.1    thewebtunnel.com
+127.0.0.1    ipaddy.com
+127.0.0.1    xeronet-proxy.org
+127.0.0.1    15aa51.info
+127.0.0.1    proxify.eu
+127.0.0.1    facebookproxy360.com
+127.0.0.1    goprivate.eu
+127.0.0.1    kingsurfproxy.com
+127.0.0.1    freeproxy.ca
+127.0.0.1    magaproxy.com
+127.0.0.1    faproxy.com
+127.0.0.1    aniscartujo.com/webproxy
+127.0.0.1    www.schnellster-webproxy.net
+127.0.0.1    free-webproxy.com
+127.0.0.1    www.vpnbook.com/webproxy
+127.0.0.1    www.hideoxy.com
+127.0.0.1    www.proxfree.com
+127.0.0.1    www.workapps.info
+127.0.0.1    proxyserver.com
+127.0.0.1    3proxy.de
+127.0.0.1    proxyanonymizer.net
+127.0.0.1    hideipusa.com
+127.0.0.1    hidedoor.com
+127.0.0.1    incloak.com
+127.0.0.1    newipnow.com
+127.0.0.1    proxfree.com
+127.0.0.1    proxify.com
+127.0.0.1    webproxy.net
+127.0.0.1    rocketprox.net
+127.0.0.1    onlineconnect.info
+127.0.0.1    proxify.co.uk
+127.0.0.1    proxify.net
+127.0.0.1    www.webproxy.to
+127.0.0.1    www.hidebux.com
+127.0.0.1    www.sumrando.com/proxy.aspx
+127.0.0.1    www.super444.com
+127.0.0.1    morphium.info
+127.0.0.1    www.fastest-webproxy.com
+127.0.0.1    www.facebook.com/Free.SSL.Proxy
+127.0.0.1    82-d.com
+127.0.0.1    yp-x.com
+127.0.0.1    proxyside.info
+127.0.0.1    proxyshide.info
+127.0.0.1    proxycc.info
+127.0.0.1    improxys.info
+127.0.0.1    unblock-browser.ibiz.cc
+127.0.0.1    usproxy.usa.cc
+127.0.0.1    bestproxy.tld.cc
+127.0.0.1    proxy.igg.biz
+127.0.0.1    allproxysite.nut.cc
+127.0.0.1    proxywebonline.sxx.in
+127.0.0.1    freeproxys.flu.cc
+127.0.0.1    cloudsecurity.cf
+127.0.0.1    proxyo.info
+127.0.0.1    sayproxy.info
+127.0.0.1    3mya.com
+127.0.0.1    proxy.net.ru
+127.0.0.1    huallaga.info
+127.0.0.1    dkproxy.com
+127.0.0.1    helpproxy.eu
+127.0.0.1    socialplay.info
+127.0.0.1    yumyumtumsprox.info
+127.0.0.1    alexproxy.ga
+127.0.0.1    vpnfast.ml
+127.0.0.1    workopen.info
+127.0.0.1    range0proxy.ml
+127.0.0.1    maxproxy.info
+127.0.0.1    hellproxy.eu
+127.0.0.1    serverproxy7.tk
+127.0.0.1    unblockproxysites1.tk
+127.0.0.1    tobproxy.tk
+127.0.0.1    proxydeal.info
+127.0.0.1    schoolopen.info
+127.0.0.1    proxyopen.info
+127.0.0.1    barchalonaproxy.ml
+127.0.0.1    socialmax.info
+127.0.0.1    princeproxy.com
+127.0.0.1    fasttv.info
+127.0.0.1    goldproxy.eu
+127.0.0.1    helpproxy.eu
+127.0.0.1    barchalonaproxy.ml
+127.0.0.1    www.socialmax.info
+127.0.0.1    www.fasttv.info
+127.0.0.1    best-free-vpn.baramiji.info
+127.0.0.1    www.proxyservers.biz
+127.0.0.1    goldproxy.eu
+127.0.0.1    www.browsesocial.info
+127.0.0.1    www.fastdigital.info
+127.0.0.1    www.clicksocial.info
+127.0.0.1    www.freeshare.info
+127.0.0.1    www.nginx-reverse-proxy.ml
+127.0.0.1    www.princeproxy.com
+127.0.0.1    germanyproxy.eu
+127.0.0.1    www.usethisforeverythingprox.info
+127.0.0.1    unblock-browser.ibiz.cc
+127.0.0.1    usproxy.usa.cc
+127.0.0.1    bestproxy.tld.cc
+127.0.0.1 allproxysite.nut.cc
+127.0.0.1    freeproxys.flu.cc
+127.0.0.1    proxy.net.ru
+127.0.0.1    amoproxy.eu    
+127.0.0.1    albertproxy.eu
+127.0.0.1    everyproxies.info
+127.0.0.1    freewebproxyw.cf
+127.0.0.1    autoproxy.eu
+127.0.0.1    ukwebproxy.ga
+127.0.0.1    proxy4server.com    
+127.0.0.1    datafree.info
+127.0.0.1    usproxy.eu
+127.0.0.1    securejob.info
+127.0.0.1    trafficproxy.inf
+127.0.0.1    digitalfast.info
+127.0.0.1    a1proxy.eu
+127.0.0.1    boxunblock.info
+127.0.0.1    pointfree.info
+127.0.0.1    freeair.info
+127.0.0.1    proxywork.info
+127.0.0.1    freesimple.info
+127.0.0.1    hiddenservice.info
+127.0.0.1    goatcake.com
+27.0.0.1 http://nicktube.com/
+127.0.0.1 www.mp3soup.net
+127.0.0.1 www.nontonmovie.com
+127.0.0.1 www.movie25.cz
+127.0.0.1 www.hdmovie14.net
+127.0.0.1 www.movie8k.me
+127.0.0.1 www.asia.pinoymovie2k.tv
+127.0.0.1 www.tagalogmoviesonline.com
+127.0.0.1 www.cinema-ofw.blogspot.f
+127.0.0.1 www.4kmoviesclub.com
+127.0.0.1 www.download.filmfanatic.com
+127.0.0.1 www.onlinemovies-pro.com
+127.0.0.1 www.zumvo.me
+127.0.0.1 www.junglevibe.net
+127.0.0.1 www.musixmatch.com
+127.0.0.1 www.tunemovie.me
+127.0.0.1 www.engsub.org
+127.0.0.1 www.bloglovin.com
+127.0.0.1 www.twomovies.us
+127.0.0.1 www.dramawaw.com
+127.0.0.1 www.vidgg.to
+127.0.0.1 www.movietube.sx
+127.0.0.1 www.movietube.pw
+127.0.0.1 www.movietube.so
+127.0.0.1 www.movietube.cc
+127.0.0.1 www.movietube.ch
+127.0.0.1 www.movietube.com
+127.0.0.1 movietube.com
+127.0.0.1 www.pinoyhdreplay.net
+127.0.0.1 www.pinoybisnes.com
+127.0.0.1 www.pleer.com
+127.0.0.1 www.mp3tunes.org
+127.0.0.1 www.youtubeinmp4.com
+127.0.0.1 www.kickass.to
+127.0.0.1 www.kat.cr
+127.0.0.1 www.solitr.com
+127.0.0.1 www.mp3monkey.net
+127.0.0.1 www.spotify.com
+127.0.0.1 www.tubeoffline.com
+127.0.0.1 www.iwannawatch.to
+127.0.0.1 www.solarmovie.is
+127.0.0.1 www.dose.com
+127.0.0.1 www.m.kickerdaily.com
+127.0.0.1 www.idolaor.com
+127.0.0.1 www.pep.ph
+127.0.0.1 www.atrl.net
+127.0.0.1 www.elitereaders.com
+127.0.0.1 www.en.savefrom.net
+127.0.0.1 www.dailyfailcenter.com
+127.0.0.1 www.philstar.com
+127.0.0.1 www.pinalove.com
+127.0.0.1 www.dailymotion.com
+127.0.0.1 www.proprofs.com
+127.0.0.1 www.grooveshark.com
+127.0.0.1 grooveshark.com
+127.0.0.1 www.jango.com
+127.0.0.1 www.watch32.com
+127.0.0.1 tunemovie.so
+127.0.0.1 watch32.com
+127.0.0.1 tv-links.co.uk
+127.0.0.1 watchfilms.com
+127.0.0.1  www.www.free-tv-video-online.me
+127.0.0.1 www.pinoytvshowsreplay.com
+127.0.0.1 www.pinaytambayan.com
+127.0.0.1 pinoytv.com
+127.0.0.1  www.www.imdb.com/
+127.0.0.1 whitefrogthemovie.com
+127.0.0.1 iwantv.com.ph
+127.0.0.1 bitsnoop.com
+127.0.0.1 isohunt.com
+127.0.0.1 www.torlock.com
+127.0.0.1 yify-torrents.com
+127.0.0.1 TorrentDownloads.Net
+127.0.0.1 kat.ph
+127.0.0.1 torrentcrazy.com
+127.0.0.1 kat.ph
+127.0.0.1 torrentcrazy.com
+127.0.0.1 m.youtube.com
+127.0.0.1  touch.facebook.com
+127.0.0.1 dailymotion.com
+127.0.0.1  www.www.youtube.com
+127.0.0.1 megashare.info
+127.0.0.1 WWW.NBA.COM
+127.0.0.1 www.nicktube.com
+127.0.0.1 clients2.google.com
+127.0.0.1 www.fbunblocker.org
+127.0.0.1 fmovies.to
+127.0.0.1 www.iflix.com
+127.0.0.1 iflix.com
+127.0.0.1 cnnphilippines.com
+127.0.0.1 http://nicktube.com
+127.0.0.1 www.nicktube.com
+127.0.0.1 web.skype.com
+127.0.0.1 login.skype.com
